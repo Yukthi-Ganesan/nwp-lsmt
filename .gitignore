@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.log
+*.db
+.DS_Store
+*.keras
